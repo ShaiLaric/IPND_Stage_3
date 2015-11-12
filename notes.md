@@ -18,4 +18,15 @@
 * Lessons 2 & 3: Classes, Object-Oriented Programming
 
 #### Lesson 3.2
-* Use Functions 
+* Use Functions
+* Python Standard Library
+    - webbrowser
+    - time
+    - os
+* Abstraction - skipping layers of complexity
+    - Example - using functions in modules without knowing how the functions work
+* Exception errors
+
+#### Lesson 3.3
+* Classes
+    - Instances or Objects
